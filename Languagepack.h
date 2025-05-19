@@ -1,0 +1,1 @@
+int LoadLanguage(int vCurrentLanguage);

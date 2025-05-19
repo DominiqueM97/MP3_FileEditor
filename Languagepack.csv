@@ -1,0 +1,35 @@
+Textnumber;German;Englisch;Spanisch;Chinese
+0001;Einstellungen;Settings;NotDefined;NotDefined
+0002;Hauptmenü;Mainmenu;NotDefined;NotDefined
+0003;Das ist das Hauptmeüu;This is the Mainmenu;NotDefined;NotDefined
+0004;Dateieditor;Fileeditor;NotDefined;NotDefined
+0005;Prorgamm beenden;Close Programm;NotDefined;NotDefined
+0006;Zurück;Back;NotDefined;NotDefined
+0007;Sprache auswählen;Select Language;NotDefined;NotDefined
+0008;Textfarbe Einstellen;Set Textcolor;NotDefined;NotDefined
+0009;Sprachauswahl;Languageselection;NotDefined;NotDefined
+0010;Textfarbe auswählen;Select Textcolor;NotDefined;NotDefined
+0011;Neue Sprache wurde gelanden;New Language was loaded;NotDefined;NotDefined
+0012;Ungültige Einstellung, Parameter wird nicht geändert;Invalid Settings, Parameter will not get changed;NotDefined;NotDefined
+0013;Neue Datei Öffnen;Open new File;NotDefined;NotDefined
+0014;Ausgewählte Datei Öffnen;Open selected File;NotDefined;NotDefined
+0015;Zuletzt geöffnete Dateien;Last opend Files;NotDefined;NotDefined
+0016;Änderungen sind noch nicht gespeichert, wirklich schließen?;Changes are not saved, do you really want to close? ;NotDefined;NotDefined
+0017;Achtung!;Attention!;NotDefined;NotDefined
+0018;Zurück, und Einstellungen dauerhaft speichern;Back, and save Settings permanently;NotDefined;NotDefined
+0019;Standard Darstellungsart;Default view Type;NotDefined;NotDefined
+0020;Darstellungsart Auswählen;Set default view Type;NotDefined;NotDefined
+0021;Neuer Default Typ gesetzt;New Default Typ is set;NotDefined;NotDefined
+0022;Datei konnte nicht geöffnet werden;Could not open File;NotDefined;NotDefined
+0023;Datei wird geladen : ;File is loading : ;NotDefined;NotDefined
+0024;Speichern;Save;NotDefined;NotDefined
+0025;Speichern als neue Datei;Save as new File;NotDefined;NotDefined
+0026;Datei wirklich überschreiben?;Sure to overwrite File?;NotDefined;NotDefined
+0027;Datei konnte nicht gespeichert werden!;Could not save the File!;NotDefined;NotDefined
+0028;Datei wird gespeichert : ;Saving File : ;NotDefined;NotDefined
+0029;Datei wird gepuffert : ;File gets buffert : ;NotDefined;NotDefined
+0030;Anzahl Änderungen: ;Changecount: ;NotDefined;NotDefined
+0031;Eingabe ist für gewählten Anzeigetyp ungültig!;Input is invalid dor selected Inputtype!;NotDefined;NotDefined
+0032;Zeichen: ;Character: ;NotDefined;NotDefined
+0033;Position: ;Position: ;NotDefined;NotDefined
+
